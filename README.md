@@ -4,7 +4,7 @@
 
 <!-- 发布前请将 YOUR_GITHUB_USERNAME 替换为实际 GitHub 用户名，并确保仓库根目录存在 eduplus-helper.user.js。 -->
 
-[![安装 U+ 智能作业助手](https://img.shields.io/badge/Install-U%2B%20Helper-1976d2?logo=tampermonkey&logoColor=white)](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/eduplus-helper/main/eduplus-helper.user.js)
+[![安装 U+ 智能作业助手](https://img.shields.io/badge/Install-U%2B%20Helper-1976d2?logo=tampermonkey&logoColor=white)](https://raw.githubusercontent.com/Genshin-Gamer1/u_auto_answer/main/eduplus-helper-v1.0.0.user.js)
 
 ## 安全说明
 
